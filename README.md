@@ -1,0 +1,1 @@
+This is the code for "Turbulent Heating in Jupiter's Middle Magnetosphere from Juno Data" that makes the q data and plots. The magnetometer and forward fits datasets are necessary to run this code. Their citations are in the paper.
